@@ -1,0 +1,44 @@
+*,
+*::after
+*::before{
+   margin: 100;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
+.section-balcão {
+    background-image: url('../img coffe/image 1.png');
+    height: 1000px;
+    width: 100%;
+    background-size: cover;
+} 
+
+.section-mesa1{
+    background-image: url('../img coffe/grao\ no\ copo\ \(1\).png');
+    height: 560px;
+    width: 704px;
+    background-size: cover;
+}
+
+.section-mesa2{
+    background-image: url('../img coffe/bule.png');
+    height: 560px;
+    width: 704px;
+    background-size: cover;
+}  
+
+.barra{
+    background-image: url('../img\ coffe/seta baixo.png');
+    background-repeat: no-repeat;
+}
+
+.barra2{
+    background-image: url('../img\ coffe/lupa.png');
+    background-repeat: no-repeat;
+
+}
+
+
